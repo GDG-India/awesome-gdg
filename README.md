@@ -53,6 +53,13 @@ Recorded sessions and slide decks from community speakers.
 | [The Future of Web](https://youtube.com/) | [Name](https://x.com/) | DevFest 2025 |
 | [Modern Android with Compose](https://youtube.com/) | [Name](https://x.com/) | Build with AI Workshop |
 
+## Code Repositories
+Open-source projects and toolkits built by the community.
+
+| Resource | Creator | Description |
+| :--- | :--- | :--- |
+| [Building and Deploying Agents with Google ADK](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | [Bhavishya Pandit - GDE](https://github.com/bhav09) | The easiest way to learn, build, and deploy Agents using Google ADK (Agent Development Kit) and Vertex AI. |
+
 ## Technologies (Learning Paths)
 * **AI/ML:** [Build with Gemini](https://ai.google.dev/) | [TensorFlow](https://www.tensorflow.org/)
 * **Cloud:** [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | [Firebase](https://firebase.google.com/docs)
