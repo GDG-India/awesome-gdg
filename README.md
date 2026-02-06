@@ -31,56 +31,53 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 *Hands-on tutorials authored by Google Developer Experts (GDEs) and community leads.*
 
 ### GenAI & Agents
-| Topic | Creator | Resource |
-| :--- | :--- | :--- |
-| **GraphRAG Agents** | Siddhant Agarwal | [Build Investment Research Agents with ADK & Neo4j](https://codelabs.developers.google.com/neo4j-adk-graphrag-agents) |
-| **Workspace Agents** | Aryan Irani | [Agentic Workflows: Build a Google Docs Agent](https://codelabs.developers.google.com/google-docs-adk-agent) |
-| **Hiring Agents** | Jay Thakkar / Vrijraj Singh | [Multi-Agent Resume Analysis with Gemini 3](https://stepwik.com/labs/building-a-hiring-agent-with-adk-gemini-3) |
-| **TypeScript AI** | Vrijraj Singh | [Building your first AI Agent with Google ADK](https://stepwik.com/labs/building-your-first-ai-agent-with-google-adk-typescript-IdAhED) |
-| **Pharma AI** | Geeta Kakrani | [Privacy-First Dashboard with Gemma 3](https://geeta-gwalior.github.io/Analytica-Agent/pharma-ai-gemma-dashboard/) |
-| **Multimedia AI** | Vrijraj Singh | [Real-Time Music Generation with Lyria](https://stepwik.com/labs/real-time-music-generation-with-lyria-realtime-bC7573) |
-| **Movie Chatbot** | Siddhant Agarwal | [Movie Recommendation Chatbot using Neo4j & Vertex AI](https://codelabs.developers.google.com/neo4j-vertexai-movie-recommender-python) |
+| Resource | Creator |
+| :--- | :--- |
+| [Build Investment Research Agents with ADK & Neo4j](https://codelabs.developers.google.com/neo4j-adk-graphrag-agents) | Siddhant Agarwal |
+| [Build a Movie Recommendation Chatbot using Neo4j and Vertex AI](https://codelabs.developers.google.com/neo4j-vertexai-movie-recommender-python#0) | Siddhant Agarwal |
+| [Agentic Workflows: Build a Google Docs Agent with ADK](https://codelabs.developers.google.com/google-docs-adk-agent) | Aryan Irani |
+| [Multi-Agent Resume Analysis with Gemini 3 & ADK](https://stepwik.com/labs/building-a-hiring-agent-with-adk-gemini-3) | Jay Thakkar & Vrijraj Singh |
+| [Building your first AI Agent with Google ADK (TypeScript)](https://stepwik.com/labs/building-your-first-ai-agent-with-google-adk-typescript-IdAhED) | Vrijraj Singh |
+| [Privacy-First Pharma AI Dashboard with Gemma 3](https://geeta-gwalior.github.io/Analytica-Agent/pharma-ai-gemma-dashboard/) | Geeta Kakrani |
+| [Real-Time Music Generation with Lyria RealTime](https://stepwik.com/labs/real-time-music-generation-with-lyria-realtime-bC7573) | Vrijraj Singh |
+| [Gemini with Function calling in Node.js](https://stepwik.com/labs/gemini-with-function-calling-in-node-GZXRSV) | Vrijraj Singh |
 
 ### Firebase & Web
-| Topic | Creator | Resource |
-| :--- | :--- | :--- |
-| **AI Logics** | Vrijraj Singh | [Generate & Edit Images in Web Apps](https://stepwik.com/labs/generate-and-edit-images-with-gemini-in-a-web-app-bYDnFz) |
-| **Summarization** | Vrijraj Singh | [Web Text Summarizer with Firebase AI Logic](https://stepwik.com/labs/build-a-web-text-summarizer-with-firebase-ai-logic-IKauSR) |
-| **Remote Config** | Vrijraj Singh | [Dynamic Behavior Control in Node.js](https://stepwik.com/labs/firebase-remote-config-with-node.js-6W7wPG) |
-| **Databases** | Vrijraj Singh | [Vue 3 Meets Cloud Firestore](https://stepwik.com/labs/vue-3-cloud-firestore-DSlYeh) |
-| **Chrome AI** | Vrijraj Singh | [Local Browser AI with Chrome Built-in APIs](https://stepwik.com/labs/chrome-built-in-ai-apis-CzUKri) |
-| **Genkit** | Vrijraj Singh | [Getting Started with Genkit in Node.js](https://stepwik.com/labs/getting-started-with-genkit-in-a-node.js-x3rbZk) |
+| Resource | Creator |
+| :--- | :--- |
+| [Generate & Edit Images with Firebase AI Logics and Gemini](https://stepwik.com/labs/generate-and-edit-images-with-gemini-in-a-web-app-bYDnFz) | Vrijraj Singh |
+| [Build a Web Text Summarizer with Firebase AI Logic](https://stepwik.com/labs/build-a-web-text-summarizer-with-firebase-ai-logic-IKauSR) | Vrijraj Singh |
+| [Firebase Remote Config with Node.js (Feature Flagging)](https://stepwik.com/labs/firebase-remote-config-with-node.js-6W7wPG) | Vrijraj Singh |
+| [Vue 3 Meets Cloud Firestore: A Step-by-Step Guide](https://stepwik.com/labs/vue-3-cloud-firestore-DSlYeh) | Vrijraj Singh |
+| [Getting Started with Firebase Genkit in Node.js](https://stepwik.com/labs/getting-started-with-genkit-in-a-node.js-x3rbZk) | Vrijraj Singh |
+| [Chrome Built-in AI APIs (Local Browser AI)](https://stepwik.com/labs/chrome-built-in-ai-apis-CzUKri) | Vrijraj Singh |
 
 ### Cloud & Infrastructure
-| Topic | Creator | Resource |
-| :--- | :--- | :--- |
-| **Kubernetes** | Ashutosh S. Bhakare | [Managing GKE with kubectl-ai Assistant](https://codelabs.developers.google.com/kubernetes-with-kubectl-ai) |
-| **Vertex AI** | Vrijraj Singh | [RAG Implementation with Node.js & PDF Processing](https://stepwik.com/labs/rag-with-vertex-ai-c0ZACp) |
-| **Weather API** | Vrijraj Singh | [Weather Service REST API with Vertex AI & Firebase](https://stepwik.com/labs/building-a-weather-service-rest-api-with-vertex-ai-and-firebase-vIL1bo) |
+| Resource | Creator |
+| :--- | :--- |
+| [Managing Kubernetes with kubectl-ai Assistant](https://codelabs.developers.google.com/kubernetes-with-kubectl-ai) | Ashutosh S. Bhakare |
+| [RAG with Vertex AI: PDF Processing & Semantic Search](https://stepwik.com/labs/rag-with-vertex-ai-c0ZACp) | Vrijraj Singh |
+| [Weather Service REST API with Vertex AI and Firebase](https://stepwik.com/labs/building-a-weather-service-rest-api-with-vertex-ai-and-firebase-vIL1bo) | Vrijraj Singh |
 
 ---
 
 ## 🎤 Tech Talks
-*Recorded sessions and slide decks from community speakers.*
-
-| Session Title | Speaker | Event | Link |
-| :--- | :--- | :--- | :--- |
-| **The Future of Web** | [Name](https://x.com/) | DevFest 2025 | [Watch Now](https://youtube.com/) |
-| **Modern Android with Compose** | [Name](https://x.com/) | Build with AI | [Watch Now](https://youtube.com/) |
+| Session Title | Speaker | Event |
+| :--- | :--- | :--- |
+| [The Future of Web](https://youtube.com/) | [Name](https://x.com/) | DevFest 2025 |
+| [Modern Android with Compose](https://youtube.com/) | [Name](https://x.com/) | Build with AI Workshop |
 
 ---
 
 ## 💻 Open Source Projects
-*Open-source projects and toolkits built by the community.*
+| Project | Creator | Description |
+| :--- | :--- | :--- |
+| [Google ADK Deployment Guide](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | [Bhavishya Pandit](https://github.com/bhav09) | The easiest way to learn, build, and deploy Agents using ADK. |
+| [Analytica Agent](https://github.com/geeta-gwalior/Analytica-Agent) | [Geeta Kakrani](https://github.com/geeta-gwalior) | Local, privacy-compliant AI dashboards for Pharma. |
 
-| Project | Creator | Description | Repository |
-| :--- | :--- | :--- | :--- |
-| **Google ADK Guide** | [Bhavishya Pandit](https://github.com/bhav09) | The easiest way to learn, build, and deploy Agents using Google ADK and Vertex AI. | [View Repo](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) |
-| **Analytica Agent** | [Geeta Kakrani](https://github.com/geeta-gwalior) | Local, privacy-compliant AI dashboards featuring an Agentic AutoML roadmap. | [View Repo](https://github.com/geeta-gwalior/Analytica-Agent) |
+---
 
 ## 📚 Learning Paths
-> Official Google resources categorized by technology stack.
-
 * **AI/ML:** [Build with Gemini](https://ai.google.dev/) • [TensorFlow](https://www.tensorflow.org/)
 * **Cloud:** [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) • [Firebase Docs](https://firebase.google.com/docs)
 * **Mobile:** [Flutter](https://docs.flutter.dev/) • [Android Developers](https://developer.android.com/)
@@ -89,7 +86,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ---
 
 ## 🙌 Contributing
-Contributions make the community strong! Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your codelabs or projects.
+Contributions make the community strong! Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your resources.
 
 ---
 
