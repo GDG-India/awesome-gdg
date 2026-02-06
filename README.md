@@ -44,6 +44,7 @@ Hands-on tutorials created by the community.
 | [Real-Time Music Generation with Lyria RealTime](https://stepwik.com/labs/real-time-music-generation-with-lyria-realtime-bC7573) | Vrijraj Singh - GDE | Learn to generate and control music in real-time using the Gemini API and Lyria RealTime. Explore prompts, configurations, and best practices for interactive music creation. |
 | [Chrome Built-in AI APIs](https://stepwik.com/labs/chrome-built-in-ai-apis-CzUKri) | Vrijraj Singh - GDE | Learn Chrome's built-in AI APIs! Build smart web features like text analysis, translation & content generation that run locally in the browser. |
 | [Gemini with Function calling in Node](https://stepwik.com/labs/gemini-with-function-calling-in-node-GZXRSV) | Vrijraj Singh - GDE | Learn to harness the power of Gemini's function calling capabilities by building a practical Node.js REST API for currency conversion. In this codelab, you'll create an API that seamlessly converts Indian Rupees (INR) to US Dollars (USD) using real-time exchange rates. |
+| [Privacy-First Pharma AI Dashboard with Gemma 3](https://geeta-gwalior.github.io/Analytica-Agent/pharma-ai-gemma-dashboard/) | [Geeta Kakrani - GDE](https://github.com/geeta-gwalior) | A technical codelab on building local, privacy-compliant AI dashboards using Gemma 3, featuring an Agentic AutoML roadmap. |
 
 ## Tech Talks
 Recorded sessions and slide decks from community speakers.
