@@ -48,6 +48,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | [Vue 3 & Firestore](https://stepwik.com/labs/vue-3-cloud-firestore-DSlYeh) | A step-by-step guide to building real-time applications with Vue and NoSQL. | Vrijraj Singh |
 | [Firebase Genkit](https://stepwik.com/labs/getting-started-with-genkit-in-a-node.js-x3rbZk) | Build production-ready GenAI features into Express.js APIs using the Genkit framework. | Vrijraj Singh |
 | [Chrome Built-in AI](https://stepwik.com/labs/chrome-built-in-ai-apis-CzUKri) | Utilize local browser-based models for privacy-first text analysis and generation. | Vrijraj Singh |
+| [Build a Full-Stack AI Web Solution with Firebase](https://stepwik.com/labs/build-a-full-stack-ai-web-solution-with-firebase-llzsjr) | Develop a full-stack AI web solution that incorporates Firebase Auth, Cloud Firestore, Firebase AI Logic, and Firebase Hosting. | Vrijraj Singh |
 
 ### Cloud & Infrastructure
 | Resource | Description | Creator |
