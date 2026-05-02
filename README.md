@@ -41,6 +41,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | [Mastering the Developer Knowledge API and MCP Server](https://stepwik.com/labs/mastering-the-developer-knowledge-api-and-mcp-server-9msajy) | This codelab guides you through integrating the Developer Knowledge API and MCP Server to ground AI in official Google documentation. | Vrijraj Singh |
 | [Google Antigravity: LinkedIn-to-Live Portfolio](https://stepwik.com/labs/google-antigravity-linkedin-portfolio) | Use Google Antigravity to scrape LinkedIn, map data with Agent Skills, and deploy a Next/Firebase portfolio, all in minutes. | Vrijraj Singh |
 | [Building Next-Gen Web Agents with Google ADK and Vertex AI](https://stepwik.com/labs/building-next-gen-web-agents-with-google-adk-and-vertex-ai) | Master Google ADK and Vertex AI to build autonomous web agents. Transition from simple chatbots to complex, multi-agent workflows in this hands-on lab. | Vrijraj Singh |
+| [Vue Todo with Gemini](https://stepwik.com/labs/vue-todo-with-gemini) | This codelab walks you through creating a Vue 3 + Vite Todo app from scratch, wiring Vue Router, building reactive add/remove task flows, and styling a polished responsive table UI with global CSS. You also integrate Gemini to summarize todos with loading/error handling. | Vrijraj Singh |
 
 
 ### Firebase & Web
